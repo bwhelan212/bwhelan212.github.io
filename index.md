@@ -14,7 +14,7 @@ My GitHub page is http://github.com/bwhelan212.
     I turned 21 over quarantine and have never gamblemed or been to vegas
     since then, however I will be going to vegas the Friday after finals. It
     was interesting to see how all the different functions performed to make
-    a succesful game of blackjack that actually worked. I liked this lab because I will be able to use what I learned about blackjack to (hopefully) win some moeny/games.
+    a succesful game of blackjack that actually worked. I liked this lab because I will be able to use what I learned about blackjack to (hopefully) win some moeny.
 
 * [Lab 11](https://github.com/cpsc-spring-2023/cpsc-120-lab-11-gerson-and-brody/tree/d2f72fcbf2cefcf058aaa4694fa6ae35c81c1b54/part-2)
 
